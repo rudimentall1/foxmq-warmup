@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+foxmq.d/
+foxmq
+*.log
+.DS_Store
