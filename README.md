@@ -13,7 +13,3 @@ Completed warmup for Vertex Swarm Challenge 2026.
 ```bash
 pip install -r requirements.txt
 python node.py --host 127.0.0.1 --port 1883 --username agent_a --password agent_a --agent-id agent_a
-```
-
-## Demo
-[Add video link]
